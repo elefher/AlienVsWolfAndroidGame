@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/inputbackcolor"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingLeft="30dp" >
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/inputbackcolor"
+        android:hint="@string/username_hint"
+        android:inputType="text"
+        android:scrollbars="vertical"
+        android:textColor="@color/textcolor"
+        android:textSize="50sp" />
+
+    <Button
+        android:id="@+id/buttonCreateClick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/action_create"
+        android:textColor="@color/textsubmit"
+        android:textSize="50sp" >
+    </Button>
+
+ <ListView
+        android:id="@android:id/list"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="@color/listback"
+        android:divider="#ff0000"
+        android:dividerHeight="5dp"
+        android:text="@string/hello"
+        android:textSize="25sp"/>
+
+<ListView
+        android:id="@+id/listview"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="@color/listback"
+        android:divider="#ff0000"
+        android:dividerHeight="5dp"
+        android:text="@string/hello"
+        android:textSize="25sp" />
+
+</LinearLayout>

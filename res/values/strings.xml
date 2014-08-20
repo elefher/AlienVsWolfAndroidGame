@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidGame</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_create">Create</string>
+    <string name="action_delete">Delete</string>
+    <string name="username_hint">type character\'s name</string>
+    <string name="hello">hello</string>
+    <string name="GPL">Copyright © 2014 Lefteris Delimitrou&lt;br /&gt;
+
+    This program is free software: you can redistribute it and/or modify&lt;br /&gt;
+    it under the terms of the GNU General Public License as published by&lt;br /&gt;
+    the Free Software Foundation, either version 3 of the License, or&lt;br /&gt;
+    (at your option) any later version.&lt;br /&gt;
+    &lt;br /&gt;
+    This program is distributed in the hope that it will be useful,&lt;br /&gt;
+    but WITHOUT ANY WARRANTY; without even the implied warranty of&lt;br /&gt;
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the&lt;br /&gt;
+    GNU General Public License for more details.&lt;br /&gt;
+    &lt;br /&gt;
+    You should have received a copy of the GNU General Public License&lt;br /&gt;
+    along with this program.  If not, see <a href="http://www.gnu.org/licenses">http://www.gnu.org/licenses</a>.&lt;br /&gt;
+&lt;br /&gt;
+Contact Email: eldelielev@gmail.com</string>
+
+    <string name="theend">THE END&lt;br /&gt;
+&lt;br /&gt;
+This game created by Lefteris Delimitrou for educational purpose.&lt;br /&gt;
+It is under GPL 3 licenses. Check out the Licenses button on the main menu.&lt;br /&gt;
+&lt;br /&gt;
+Special Thanks&lt;br /&gt;
+&lt;br /&gt;
+Everyone who love and use open source idea. The most of graphics&lt;br /&gt; 
+created by talented people who make popular the open source idea.&lt;br /&gt;
+Thanks all of them!!&lt;br /&gt;
+&lt;br /&gt;
+Designed &amp; &lt;br /&gt;
+Programmed By &lt;br /&gt;
+Lefteris Delimitrou&lt;br /&gt;
+&lt;br /&gt;
+Graphics by&lt;br /&gt;
+People who love &amp; support&lt;br /&gt; 
+open source&lt;br /&gt;
+Lefteris Delimitrou&lt;br /&gt;
+Dimitris Sandalis&lt;br /&gt;
+&lt;br /&gt;
+Music by &lt;br /&gt;
+Night Driver &lt;br /&gt;
+Music WebSite: http://www.nosoapradio.us/ &lt;br /&gt;
+&lt;br /&gt;
+Email: eldelielev@gmail.com&lt;br /&gt;
+&lt;br /&gt;
+Source Code: <a href="https://github.com/elefher/wolfHunterTheGame">https://github.com/elefher/wolfHunterTheGame</a>
+</string>
+    
+    
+    <color name="textcolor">#ff0000</color>
+    <color name="textsubmit">#00ff00</color>
+    <color name="inputbackcolor">#ffffff</color>
+    <color name="listback">#0000ff</color>
+
+</resources>

@@ -1,0 +1,5 @@
+!Initialize rocketsB for level 4
+!x	 y  power speedX moveSpeed
+5500 500 1 0 -10
+5500 550 1 0 -10
+7000 600 1 0 -10

@@ -1,0 +1,6 @@
+!Initialize broken rockets3 for level 4
+!x	 y  power speedX moveSpeed
+14000 0 2 10 -8
+16000 0 2 10 -8
+17000 0 2 10 -8
+18000 0 2 10 -8

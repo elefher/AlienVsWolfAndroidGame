@@ -1,0 +1,4 @@
+!Initialize SkeletonRunnersB for level 8
+!x	 y  power speedX moveSpeed
+22000 400 2 0 -30
+24000 400 2 0 -30

@@ -1,0 +1,8 @@
+!Initialize weapons for level 1
+!x	 y  name power
+3000 400 gun1 2
+5000 300 nil 1
+10000 400 nil 1
+16000 400 nil 1
+20000 500 nil 1
+24000 550 nil 1
