@@ -1,8 +1,8 @@
 package com.generic.framework;
 
-import com.elefher.wolfhuntergame.Animation;
-import com.elefher.wolfhuntergame.Background;
-import com.elefher.wolfhuntergame.GameScreen;
+import com.kilobolt.AlienVsWolf.Animation;
+import com.kilobolt.AlienVsWolf.Background;
+import com.kilobolt.AlienVsWolf.GameScreen;
 import com.kilobolt.framework.Graphics;
 
 import android.graphics.Rect;

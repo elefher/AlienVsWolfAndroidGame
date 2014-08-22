@@ -1,22 +1,13 @@
 package com.generic.classes;
 
-import java.io.BufferedReader;
-import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
 
 import android.content.Context;
 import android.content.res.AssetManager;
-import android.util.Log;
-
-import com.elefher.wolfhuntergame.NewLevelGame;
-import com.elefher.wolfhuntergame.SampleGame;
-import com.elefher.wolfhuntergame.R;
 
 public class ReaderFiles {
 

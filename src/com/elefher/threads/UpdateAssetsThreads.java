@@ -4,12 +4,12 @@ import java.util.ArrayList;
 
 import android.graphics.Color;
 
-import com.elefher.wolfhuntergame.GameScreen;
-import com.elefher.wolfhuntergame.LastBigEnemyLevel;
-import com.elefher.wolfhuntergame.Life;
-import com.elefher.wolfhuntergame.ProjecttileEnemy;
-import com.elefher.wolfhuntergame.Robot;
-import com.elefher.wolfhuntergame.Weapon;
+import com.kilobolt.AlienVsWolf.GameScreen;
+import com.kilobolt.AlienVsWolf.LastBigEnemyLevel;
+import com.kilobolt.AlienVsWolf.Life;
+import com.kilobolt.AlienVsWolf.ProjecttileEnemy;
+import com.kilobolt.AlienVsWolf.Robot;
+import com.kilobolt.AlienVsWolf.Weapon;
 import com.kilobolt.framework.Graphics;
 
 public class UpdateAssetsThreads implements Runnable {

@@ -7,8 +7,8 @@ import java.util.List;
 
 import android.content.Context;
 
-import com.elefher.wolfhuntergame.Heliboy;
 import com.generic.classes.ReaderFiles;
+import com.kilobolt.AlienVsWolf.Heliboy;
 
 public class CreateEnemies {
 	public String level;

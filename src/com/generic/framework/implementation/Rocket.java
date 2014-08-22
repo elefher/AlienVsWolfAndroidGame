@@ -2,11 +2,11 @@ package com.generic.framework.implementation;
 
 import android.graphics.Rect;
 
-import com.elefher.wolfhuntergame.Animation;
-import com.elefher.wolfhuntergame.Assets;
-import com.elefher.wolfhuntergame.GameScreen;
-import com.elefher.wolfhuntergame.Robot;
 import com.generic.framework.FlyObject;
+import com.kilobolt.AlienVsWolf.Animation;
+import com.kilobolt.AlienVsWolf.Assets;
+import com.kilobolt.AlienVsWolf.GameScreen;
+import com.kilobolt.AlienVsWolf.Robot;
 import com.kilobolt.framework.Graphics;
 import com.kilobolt.framework.Image;
 

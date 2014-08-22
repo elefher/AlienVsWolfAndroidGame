@@ -1,7 +1,7 @@
 package com.elefher.AssetsAlgorithms;
 
-import com.elefher.wolfhuntergame.Animation;
-import com.elefher.wolfhuntergame.GameScreen;
+import com.kilobolt.AlienVsWolf.Animation;
+import com.kilobolt.AlienVsWolf.GameScreen;
 import com.kilobolt.framework.Graphics;
 
 public class L1Algorithm {
@@ -68,7 +68,6 @@ public class L1Algorithm {
 			if (current >= (pastTime + 1 * 1000)) { // multiply by 1000 to get
 													// milliseconds
 				pastTime = System.currentTimeMillis();
-				GameScreen.lastBigEnemy.setReadyToFire(true);
 				GameScreen.lastBigEnemy.setReadyToFire(true);
 				int randomY = (int) (Math.random() * 200 + 60);
 				GameScreen.lastBigEnemy.attack(50, randomY, "f");

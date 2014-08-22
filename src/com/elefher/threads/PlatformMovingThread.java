@@ -5,12 +5,12 @@ import java.util.ArrayList;
 import android.graphics.Color;
 import android.graphics.Rect;
 
-import com.elefher.wolfhuntergame.Animation;
-import com.elefher.wolfhuntergame.Assets;
-import com.elefher.wolfhuntergame.Background;
-import com.elefher.wolfhuntergame.GameScreen;
-import com.elefher.wolfhuntergame.ProjecttileEnemy;
-import com.elefher.wolfhuntergame.Robot;
+import com.kilobolt.AlienVsWolf.Animation;
+import com.kilobolt.AlienVsWolf.Assets;
+import com.kilobolt.AlienVsWolf.Background;
+import com.kilobolt.AlienVsWolf.GameScreen;
+import com.kilobolt.AlienVsWolf.ProjecttileEnemy;
+import com.kilobolt.AlienVsWolf.Robot;
 import com.kilobolt.framework.Game;
 import com.kilobolt.framework.Graphics;
 import com.kilobolt.framework.Image;

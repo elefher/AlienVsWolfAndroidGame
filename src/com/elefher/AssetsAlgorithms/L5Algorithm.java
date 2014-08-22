@@ -1,7 +1,7 @@
 package com.elefher.AssetsAlgorithms;
 
-import com.elefher.wolfhuntergame.Animation;
-import com.elefher.wolfhuntergame.GameScreen;
+import com.kilobolt.AlienVsWolf.Animation;
+import com.kilobolt.AlienVsWolf.GameScreen;
 import com.kilobolt.framework.Graphics;
 
 public class L5Algorithm {

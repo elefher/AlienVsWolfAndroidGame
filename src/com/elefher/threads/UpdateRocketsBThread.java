@@ -2,8 +2,8 @@ package com.elefher.threads;
 
 import java.util.ArrayList;
 
-import com.elefher.wolfhuntergame.GameScreen;
 import com.generic.framework.implementation.RocketB;
+import com.kilobolt.AlienVsWolf.GameScreen;
 
 public class UpdateRocketsBThread implements Runnable {
 	Thread currentThread = null;

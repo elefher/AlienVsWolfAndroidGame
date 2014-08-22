@@ -14,7 +14,7 @@ import android.view.Display;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.elefher.wolfhuntergame.CreatePlayer;
+import com.kilobolt.AlienVsWolf.CreatePlayer;
 import com.kilobolt.framework.Audio;
 import com.kilobolt.framework.FileIO;
 import com.kilobolt.framework.Game;

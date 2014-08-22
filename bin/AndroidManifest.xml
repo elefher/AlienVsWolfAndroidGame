@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.elefher.wolfhuntergame"
+    package="com.kilobolt.AlienVsWolf"
     android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionName="1.0.0" >
 
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -14,11 +14,11 @@
 
     <application
         android:icon="@drawable/icon"
-        android:label="WolfHunter" >
+        android:label="alien vs wolf" >
         <activity
-            android:name="com.elefher.wolfhuntergame.SampleGame"
+            android:name="com.kilobolt.AlienVsWolf.SampleGame"
             android:configChanges="keyboard|keyboardHidden|orientation"
-            android:label="WolfHunter"
+            android:label="Alien vs Wolf"
             android:screenOrientation="landscape" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,19 +27,19 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.elefher.wolfhuntergame.CreatePlayer"
+            android:name="com.kilobolt.AlienVsWolf.CreatePlayer"
             android:label="create players">
         </activity>
         <activity
-            android:name="com.elefher.wolfhuntergame.NewLevelGame"
+            android:name="com.kilobolt.AlienVsWolf.NewLevelGame"
             android:label="new level game">
         </activity>
         <activity
-            android:name="com.elefher.wolfhuntergame.Licences"
+            android:name="com.kilobolt.AlienVsWolf.Licences"
             android:label="Licenses">
         </activity>
         <activity
-            android:name="com.elefher.wolfhuntergame.TheEnd"
+            android:name="com.kilobolt.AlienVsWolf.TheEnd"
             android:label="The End">
         </activity>
     </application>

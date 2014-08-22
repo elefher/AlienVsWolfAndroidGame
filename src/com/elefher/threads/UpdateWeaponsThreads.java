@@ -1,8 +1,8 @@
 package com.elefher.threads;
 import java.util.ArrayList;
 
-import com.elefher.wolfhuntergame.GameScreen;
-import com.elefher.wolfhuntergame.Weapon;
+import com.kilobolt.AlienVsWolf.GameScreen;
+import com.kilobolt.AlienVsWolf.Weapon;
 
 public class UpdateWeaponsThreads implements Runnable {
 	Thread currentThread = null;

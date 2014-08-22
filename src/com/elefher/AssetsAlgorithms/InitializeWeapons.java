@@ -7,8 +7,8 @@ import java.util.List;
 
 import android.content.Context;
 
-import com.elefher.wolfhuntergame.Weapon;
 import com.generic.classes.ReaderFiles;
+import com.kilobolt.AlienVsWolf.Weapon;
 
 public class InitializeWeapons {
 	public List<Integer> pixelY = new ArrayList<Integer>();

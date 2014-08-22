@@ -2,9 +2,9 @@ package com.elefher.threads;
 
 import java.util.ArrayList;
 
-import com.elefher.wolfhuntergame.GameScreen;
 import com.generic.framework.implementation.BrokenRocket;
 import com.generic.framework.implementation.BrokenRocket3;
+import com.kilobolt.AlienVsWolf.GameScreen;
 
 public class UpdateBrokenRockets3Thread implements Runnable {
 	Thread currentThread = null;

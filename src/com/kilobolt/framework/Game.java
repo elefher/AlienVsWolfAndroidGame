@@ -2,7 +2,7 @@ package com.kilobolt.framework;
 
 import android.app.Activity;
 
-import com.elefher.wolfhuntergame.CreatePlayer;
+import com.kilobolt.AlienVsWolf.CreatePlayer;
 
 public interface Game {
 

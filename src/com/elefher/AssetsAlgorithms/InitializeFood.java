@@ -5,8 +5,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.elefher.wolfhuntergame.FoodDrink;
 import com.generic.classes.ReaderFiles;
+import com.kilobolt.AlienVsWolf.FoodDrink;
 
 import android.content.Context;
 
